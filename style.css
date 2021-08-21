@@ -111,6 +111,12 @@ body
   background-color:rgb(28, 25, 155);
   cursor: pointer;
 }
+.copyright
+  {
+    text-align: center;
+    margin-bottom: 20px;
+    text-decoration: blue;
+  }
 
 @media only screen and (max-width:900px)
 {
@@ -128,15 +134,7 @@ body
   }
   
   
-  .copyright
-  {
-    text-align: center;
-    margin-bottom: 20px;
-    text-decoration: blue;
-  }
-.i4g{
-  width: 5px;
-  height: 5px;
+  
 
-}
+
 }
