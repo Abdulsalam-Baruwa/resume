@@ -6,7 +6,10 @@
 }
 body
 {
-  background:  rgb(197, 196, 196);
+  background:  rgb(250, 244, 244);
+}
+body h2{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .profile-img
 {
@@ -15,8 +18,8 @@ body
 }
 .profile-img img
 {
-  width: 85%;
-  height: 85%;
+  width: 90%;
+  height: 90%;
   
 }
 .profile-info
@@ -54,7 +57,7 @@ body
 }
 .skills
 {
-  width: 60%;
+  width: 95%;
   padding: 0 30px;
 }
 .education
@@ -66,6 +69,11 @@ body
   text-align:center;
   box-shadow: 0 0 15px 1px rgb(37, 73, 214, 0.18);
   background: white;
+}
+.education img
+{
+  height: 5%;
+  margin: 5px;
 }
 
 .education small
