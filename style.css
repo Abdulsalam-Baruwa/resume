@@ -13,7 +13,9 @@ body h2{
 }
 .profile-img
 {
-  width: 40%;
+  margin-top: 15%;
+  width: 30%;
+  margin-left: 35px;
   float: left;
 }
 .profile-img img
