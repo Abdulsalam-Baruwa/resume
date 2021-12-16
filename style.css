@@ -136,6 +136,7 @@ body h2{
   overflow: inherit;
   }
   .profile-img{
+    margin: 0%;
     width: 100%;
   }
   .education
